@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - xribene
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - xribene/BachDuet
+  - TEAMuP-dev/HARP
+  - yongyizang/BachDuet-WebGUI
+  - xribene/DrawAndListen
+  - yongyizang/Euterpe
+  - xribene/Emokit_Epoc_GUI
