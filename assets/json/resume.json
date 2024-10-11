@@ -110,6 +110,22 @@
 
   "publications": [
     {
+      "name": "Harp 2.0: Expanding Hosted, Asynchronous, Remote Processing For Deep Learning In The Daw",
+      "publisher": "ISMIR Late Breaking & Demo",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "In the 2.0 release we introduce support for MIDI-based and audio/MIDI labeling models",
+      "authors": ["Christodoulos Benetatos*", "Frank Cwitkowitz*", "Nathan Pruyne", "Hugo Flores Garcia", "Patrick O’Reilly", "Zhiyao Duan", "Bryan Pardo"]
+    },
+    {
+      "name": "Score Reduction for Guitar Through Reinforcement Learning",
+      "publisher": "ISMIR Late Breaking & Demo",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "",
+      "authors": ["Christodoulos Benetatos", "Zhiyao Duan"]
+    },
+    {
       "name": "BachDuet: A human-machine duet improvisation system",
       "publisher": "ISMIR Late Breaking & Demo",
       "releaseDate": "2019",
@@ -141,14 +157,7 @@
       "summary": "A sketch-based system for music inpainting.",
       "authors": ["Christodoulos Benetatos", "Zhiyao Duan"]
     },
-    {
-      "name": "Euterpe: A Web Framework for Interactive Music Systems",
-      "publisher": "Journal of the Audio Engineering Society",
-      "releaseDate": "2023",
-      "url": "",
-      "summary": "Euterpe is a web framework for interactive music systems.",
-      "authors": ["Yongyi Zang", "Christodoulos Benetatos", "Zhiyao Duan"]
-    },
+    
     {
       "name": "HARP: Bringing Deep Learning to the DAW with Hosted, Asynchronous, Remote Processing",
       "publisher": "Machine Learning for Creativity and Design at NeurIPS 2023",
@@ -156,6 +165,14 @@
       "url": "",
       "summary": "HARP is a system for integrating deep learning into DAWs using hosted, asynchronous remote processing.",
       "authors": ["Hugo Flores Garcia", "Christodoulos Benetatos", "Patrick O’Reilly", "Aldo Aguilar", "Zhiyao Duan", "Bryan Pardo"]
+    },
+    {
+      "name": "Euterpe: A Web Framework for Interactive Music Systems",
+      "publisher": "Journal of the Audio Engineering Society",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Euterpe is a web framework for interactive music systems.",
+      "authors": ["Yongyi Zang*", "Christodoulos Benetatos*", "Zhiyao Duan"]
     }
   ],
 
