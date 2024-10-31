@@ -87,7 +87,10 @@
       "startDate": "2011-09-01",
       "endDate": "2017-12-01",
       "score": "8",
-      "courses": ["Control and Robotics", "Signal Processing", "Analog Devices", "Brain Computer Interfaces"]
+      "courses": [
+        "Thesis: A Brain Computer Interface (BCI),using Steady State Visual Evoked Potentials (SSVEP), for the task of maze navigation.",
+        "Supervised by [Prof. A. G. Stafylopatis and Dr G. Siolas](https://www.ails.ece.ntua.gr/)"
+      ]
     },
     {
       "institution": "University of Rochester",
@@ -98,7 +101,9 @@
       "startDate": "2018-09-01",
       "endDate": "2024-12-01",
       "score": "",
-      "courses": ["Deep Learning", "Music and Audio Signal Processing"]
+      "courses": ["Focus Areas: Deep Learning, Music and Audio Signal Processing",
+                  "Supervised by [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao/index.html)"
+    ]
     }
 
   ],
