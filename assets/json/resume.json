@@ -44,8 +44,8 @@
       "endDate": "2020-11",
       "summary": "",
       "highlights": [
-        "Multimodal modeling of dance videos, including visual beat tracking and audio synchronization.",
-        "Developed a real-time digital audio effects suite in C++ for iOS."
+        "Conducted multimodal modeling of dance videos focusing on visual beat tracking and real-time body gesture recognition.",
+        "Created a real time digital audio effects suite in C++ (JUCE) for iOS."
       ]
     },
     {
@@ -57,8 +57,7 @@
       "endDate": "2024-12",
       "summary": "",
       "highlights": [
-        "Developing AI tools (algorithms and prototypes) to assist musicians in music making, using generative models, graph neural networks, and reinforcement learning.",
-        "Supervised by Prof. Zhiyao Duan."
+        "Developing novel AI tools (algorithms and prototypes) to assist in the music making process using generative models."
       ]
     },
     {
